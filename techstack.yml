@@ -1,0 +1,714 @@
+repo_name: David-Arcos-369/Burger-Boss
+report_id: 9bf2cc730cd8c2dc464cf7115dd5202d
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-07T02:32:45+00:00'
+requested_by: David-Arcos-369
+provider: github
+branch: main
+detected_tools_count: 50
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 3.7.2
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: redux-thunk
+  description: Thunk middleware for Redux
+  website_url: https://github.com/gaearon/redux-thunk
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/5448/13142323.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 6.25.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss
+  detection_source: Repo Metadata
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 20.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 3.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.16.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: react-dev-utils
+  description: Webpack utilities used by Create React App
+  package_url: https://www.npmjs.com/react-dev-utils
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16112/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+  vulnerabilities:
+  - name: react-dev-utils on Windows vulnerable to Remote Code Execution
+    cve_id: CVE-2018-6342
+    cve_url: https://github.com/advisories/GHSA-29gp-92wp-94q8
+    detected_date: Aug 22
+    severity: high
+    first_patched: 4.2.2
+  - name: react-dev-utils OS Command Injection in function `getProcessForPort`
+    cve_id: CVE-2021-24033
+    cve_url: https://github.com/advisories/GHSA-5q6m-3h65-w53x
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 11.0.4
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 2.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+  vulnerabilities:
+  - name: Missing Origin Validation in webpack-dev-server
+    cve_id: CVE-2018-14732
+    cve_url: https://github.com/advisories/GHSA-cf66-xwfp-gvc4
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.1.11
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+  vulnerabilities:
+  - name: Cross-Site Scripting in react-dom
+    cve_id: CVE-2018-6341
+    cve_url: https://github.com/advisories/GHSA-mvjj-gqq2-p4hw
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 16.0.1
+- name: babel-core
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/babel-core
+  version: 6.25.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 7.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: babel-jest
+  description: Jest plugin to use babel for transformation
+  package_url: https://www.npmjs.com/babel-jest
+  version: 20.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 7.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: babel-preset-react-app
+  description: Babel preset used by Create React App
+  package_url: https://www.npmjs.com/babel-preset-react-app
+  version: 3.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16089/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: babel-runtime
+  description: Babel selfContained runtime
+  package_url: https://www.npmjs.com/babel-runtime
+  version: 6.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15861/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: case-sensitive-paths-webpack-plugin
+  description: Enforces module path case sensitivity in Webpack
+  package_url: https://www.npmjs.com/case-sensitive-paths-webpack-plugin
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16073/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 1.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: eslint-config-react-app
+  description: ESLint configuration used by Create React App
+  package_url: https://www.npmjs.com/eslint-config-react-app
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16088/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: eslint-loader
+  description: ESlint loader for webpack
+  package_url: https://www.npmjs.com/eslint-loader
+  version: 1.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15889/default_724d5bc657ec09174564f19f2a5d26098549124a.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: eslint-plugin-flowtype
+  description: Flowtype linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-flowtype
+  version: 2.35.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15940/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 5.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: extract-text-webpack-plugin
+  description: Extract text from bundle into a file
+  package_url: https://www.npmjs.com/extract-text-webpack-plugin
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15855/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: file-loader
+  description: A file loader module for webpack
+  package_url: https://www.npmjs.com/file-loader
+  version: 0.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  version: 2.29.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: object-assign
+  description: ES2015 `Object.assign
+  package_url: https://www.npmjs.com/object-assign
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16015/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: postcss-flexbugs-fixes
+  description: PostCSS plugin This project tries to fix all of flexbug's issues
+  package_url: https://www.npmjs.com/postcss-flexbugs-fixes
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16265/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: postcss-loader
+  description: PostCSS loader for webpack
+  package_url: https://www.npmjs.com/postcss-loader
+  version: 2.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15876/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: promise
+  description: Bare bones Promises/A+ implementation
+  package_url: https://www.npmjs.com/promise
+  version: 7.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16093/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: prop-types
+  description: Runtime type checking for React props and similar objects
+  package_url: https://www.npmjs.com/prop-types
+  version: 15.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 5.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 4.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 0.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: sw-precache-webpack-plugin
+  description: Webpack plugin for using service workers
+  package_url: https://www.npmjs.com/sw-precache-webpack-plugin
+  version: 0.11.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16432/default_ee431b56fd1088dacc89b5f35971ce5954c5c6d3.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: url-loader
+  description: A loader for webpack which transforms files into base64 URIs
+  package_url: https://www.npmjs.com/url-loader
+  version: 0.5.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15858/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: webpack-manifest-plugin
+  description: Webpack plugin for generating asset manifests
+  package_url: https://www.npmjs.com/webpack-manifest-plugin
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16158/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
+- name: whatwg-fetch
+  description: A window.fetch polyfill
+  package_url: https://www.npmjs.com/whatwg-fetch
+  version: 2.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16094/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/David-Arcos-369/Burger-Boss/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: David Arcos
+  last_updated_on: 2021-09-24 03:37:53.000000000 Z
